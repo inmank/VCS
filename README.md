@@ -1,0 +1,4 @@
+VCS
+===
+
+Visual Cryptography scheme
